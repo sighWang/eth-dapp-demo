@@ -16,3 +16,5 @@
 - npx hardhat run scripts/deploy.js --network localhost ## 在本地部署合约
 
 用智能合约Escrow的部署地址替换 App.js 中的 escrowAddress 值
+
+ - yarn start ## 启动前端界面
